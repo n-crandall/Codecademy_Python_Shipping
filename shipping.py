@@ -11,3 +11,5 @@ else:
     cost_ground = weight * 4.75 + 20
 
 print(cost_ground)
+
+cost_premium = 125
