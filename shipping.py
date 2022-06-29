@@ -10,6 +10,8 @@ elif weight > 6 and weight <= 10:
 else:
     cost_ground = weight * 4.75 + 20
 
-print(cost_ground)
+print("Ground Shipping $" + cost_ground)
 
 cost_premium = 125
+
+print("Ground Shipping Premium $" + cost_premium)
